@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Naključna kocka</string>
+    <string name="random">Naključno</string>
+    <string name="my_random">Moja naključna številka</string>
+    <string name="random_number_generator">Naključni generator številk</string>
+    <string name="generate">Generiraj</string>
+</resources>

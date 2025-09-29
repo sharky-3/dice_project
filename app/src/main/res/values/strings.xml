@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">random_kocka</string>
+    <string name="random">Random</string>
+    <string name="my_random">My random</string>
+    <string name="random_number_generator">Random number generator</string>
+    <string name="generate">Generate</string>
 </resources>

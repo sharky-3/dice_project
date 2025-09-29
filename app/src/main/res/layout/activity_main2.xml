@@ -13,7 +13,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
-        android:text="TextView"
+        android:text="@string/random_number_generator"
         tools:textSize="30sp" />
 
     <EditText
@@ -36,7 +36,7 @@
         android:id="@+id/button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Button" />
+        android:text="@string/generate" />
 
     <TextView
         android:id="@+id/generated_number"

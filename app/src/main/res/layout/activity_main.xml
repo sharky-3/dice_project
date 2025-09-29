@@ -14,7 +14,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
-        android:text="Random"
+        android:text="@string/random"
         tools:textSize="30" />
 
     <ImageButton
@@ -30,7 +30,7 @@
         android:layout_width="match_parent"
         android:layout_height="202dp"
         android:onClick="openWebTwo"
-        android:text="My random" />
+        android:text="@string/my_random" />
 
     <ImageView
         android:id="@+id/dice_id"
